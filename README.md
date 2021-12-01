@@ -4,7 +4,7 @@
   <img src="https://github.com/IzkSensei/Data-Visualization/blob/master/Images/title.JPG" width=400>
 </p>
 <h1 align="center">Visualizing Datasets</h1>
-<p>Visualizing is an important part of understanding datasets. It can demonstrate some important characteristics of datasets. In this project, we tried to use various tools like Seaborn, Plotly and Matplotlib in order to make a better analysis of our datasets.
+<p>Visualizing is an important part of understanding datasets. It can demonstrate some important characteristics of datasets. In this project, we tried to use various tools like <b>Seaborn</b>, <b>Plotly</b> and <b>Matplotlib</b> in order to make a better analysis of our datasets.
 </p>
 
 ## Datasets
