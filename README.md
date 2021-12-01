@@ -30,9 +30,9 @@
   <img src="https://github.com/IzkSensei/Data-Visualization/blob/master/Images/bills1.JPG" width=850>
 </p> 
   <p align="center">
-  <img src="https://github.com/IzkSensei/Data-Visualization/blob/master/Images/bills2.JPG"  width=400>
+  <img src="https://github.com/IzkSensei/Data-Visualization/blob/master/Images/bills2.JPG"  width=390>
 
-  <img src="https://github.com/IzkSensei/Data-Visualization/blob/master/Images/bills3.JPG" width=430>
+  <img src="https://github.com/IzkSensei/Data-Visualization/blob/master/Images/bills3.JPG" width=420>
 </p> 
 
 
