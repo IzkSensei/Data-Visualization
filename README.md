@@ -7,22 +7,28 @@
 <p>Visualizing is an important part of understanding datasets. It can demonstrate some important characteristics of datasets. In this project, we tried to use various tools like <b>Seaborn</b>, <b>Plotly</b> and <b>Matplotlib</b> in order to make a better analysis of our datasets.
 </p>
 
+
+
 ## Datasets
 
 <p>Some public datasets that used in this project:
 <ul>
-<li>(NYC Open Data)[https://opendata.cityofnewyork.us/]
+<li><a href="https://opendata.cityofnewyork.us/">NYC Open Data</a></li>
 <li>Seaborn Dataset
 <li>Spotify 2017 Dataset
 </ul></a>
 <ul>  
 </p>
 
+
+
 ## NYC Dataset Analysis:
 
   <p align="center">
   <img src="https://github.com/IzkSensei/Data-Visualization/blob/master/Images/Benches.JPG" width=850>
 </p> 
+
+
 
 ## Seaborn Dataset Analysis:
 
@@ -34,6 +40,7 @@
 
   <img src="https://github.com/IzkSensei/Data-Visualization/blob/master/Images/bills3.JPG" width=410>
 </p> 
+
 
 
 ## Spotify Dataset Analysis:
